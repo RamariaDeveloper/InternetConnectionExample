@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CodeChallenge</string>
+    <string name="network_connection_wifi">Network connection WIFI:</string>
+    <string name="check_connection">Check Connection</string>
+    <string name="check_current_connection">Check Current Network Connection</string>
+    <string name="network_status_from_wifi_connection">Network status from wifi connection</string>
+    <string name="network_current_status_connection">Network current status from device connection</string>
+</resources>
